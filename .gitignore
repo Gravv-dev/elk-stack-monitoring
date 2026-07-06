@@ -1,0 +1,3 @@
+elasticsearch-data/
+*.log
+.DS_Store
